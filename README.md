@@ -213,6 +213,14 @@ ABOUT PAGE:
 
 ![OUT](scr1.png)
 
+### About Page:
+
+![OUT](SCR2.png)
+
+### Contact Page:
+
+![OUT](SCR3.png)
+
 ## Result:
 Thus webpages created using bootstrap.
 
